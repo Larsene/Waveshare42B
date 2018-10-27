@@ -7,6 +7,7 @@ Model : https://www.waveshare.com/wiki/4.2inch_e-Paper_Module_(B)
 
 ## Raspberry installation
 
+Be sure to activate SPI & I2C interface in raspi-config
 to use this screen on a rasberry, you need to install these modules : python-dev, pillow, spidev
 
 Be sure you have installed libjpeg-dev before pillow installation :
